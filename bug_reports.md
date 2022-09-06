@@ -1,6 +1,6 @@
-BPQ 1
+🪲 BPQ 1
 
-###The email is saved differently than the user specified.
+### The email is saved differently than the user specified.
 
 **Devices**:Samsung A6+
 
@@ -29,7 +29,7 @@ BPQ 1
 
 ---
 
-BPQ 2
+🪲 BPQ 2
 
 ### Don't receive a confirmation email after changing the email.
 
@@ -56,11 +56,12 @@ BPQ 2
 **❌ Actual result:** 
 1. Email was saved - irina.irina@gmail.com
 2. Email confirmation not received
+
 **✅ Expected result:** User got an email with confirmation the new email adress  on a new email address.
 
 ---
 
-BPQ 3
+🪲 BPQ 3
 
 ### User can save password only from numbers.
 
@@ -92,7 +93,7 @@ BPQ 3
 
 ---
 
-BPQ 4
+🪲 BPQ 4
 
 ### Default height of a new user is in cm.
 
@@ -119,7 +120,7 @@ User's height is in inches.
 
 ---
 
-BPQ 5
+🪲 BPQ 5
 
 ### Home page is displayed after returning to the app instead of the Profile.
 
@@ -134,6 +135,7 @@ BPQ 5
 **Frequency of reproduction:** always
 
 **Test case**: PC14 Displaying the profile after returning to the app.
+
 **Preconditions:**
 1. Open the app.
 2. Go to user profile.

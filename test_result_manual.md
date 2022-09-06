@@ -1,7 +1,7 @@
 ### Manual test report
 **Environment:**
 
-- Version – 2.2.3
+- App version – 2.2.3
 - Device, ОS– Samsung A6 + (Android 10)
 
 **Test results:** 

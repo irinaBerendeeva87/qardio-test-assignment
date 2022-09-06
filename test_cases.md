@@ -1,5 +1,5 @@
 ---
-> Actions with the list
+> Actions in Profile
 ---
 
 № PC1  **User does to profile by  navigation icon.**
@@ -154,9 +154,10 @@
 № PC9 **Default value of height in inches**
 
 **Preconditions**: New user. 
+
 **Steps**: Open the Profile page.
-**Expected results**:
- User's height is in inches.
+
+**Expected results**: User's height is in inches.
 
 ---
 
