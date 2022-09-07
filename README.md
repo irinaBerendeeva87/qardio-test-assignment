@@ -1,5 +1,10 @@
 # Qardio test assignment
 
+I have tested the Qardio app and documented it with a detailed test report. 
+I compiled the most critical bugs but also the build contains some problems with dropdown sizes.
+
+Test documentation:
+
 [Checklist](https://github.com/irinaBerendeeva87/qardio-test-assignment/blob/master/checklist.md)
 
 [Test cases](https://github.com/irinaBerendeeva87/qardio-test-assignment/blob/master/test_cases.md)
