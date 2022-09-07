@@ -1,4 +1,4 @@
-# Qardio test assignment
+#🚀 Qardio test assignment 🚀
 
 I have tested the Qardio app and documented it with a detailed test report. 
 I compiled the most critical bugs but also the build contains some problems with dropdown sizes.
